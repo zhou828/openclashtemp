@@ -9,7 +9,8 @@ DOMAIN-SUFFIX,kong2dao.dns.army
 DOMAIN-SUFFIX,pipijiang.fun
 DOMAIN-SUFFIX,beyondnetwork.net
 DOMAIN-SUFFIX,goflybit.pages.dev
-
+DOMAIN-SUFFIX,tangpt.top
+DOMAIN-SUFFIX,hdarea.club,
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
@@ -39,6 +40,11 @@ DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,so.com
+
+# netcup
+DOMAIN-SUFFIX,netcup.com
+DOMAIN-SUFFIX,servercontrolpanel.de
+DOMAIN-SUFFIX,customercontrolpanel.de
 
 # 核桃
 DOMAIN-SUFFIX,pipacoding.com
