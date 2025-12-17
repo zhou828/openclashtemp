@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,pipijiang.fun
 DOMAIN-SUFFIX,beyondnetwork.net
 DOMAIN-SUFFIX,goflybit.pages.dev
 
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
@@ -39,6 +40,10 @@ DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,so.com
 
+# 核桃
+DOMAIN-SUFFIX,pipacoding.com
+DOMAIN-SUFFIX,hetao101.com
+DOMAIN-SUFFIX,htcdn-a.com
 
 # 58
 DOMAIN-SUFFIX,58.com
